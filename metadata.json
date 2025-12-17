@@ -1,0 +1,7 @@
+{
+  "name": "Velvet",
+  "description": "A cinematic aesthetic companion for couples. Analyze your shared vibe, find atmosphere-matched date spots, and explore deep connections.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
